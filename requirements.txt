@@ -1,5 +1,4 @@
 streamlit
-mysql.connector
-contextlib
+mysql-connector-python
 pandas
 plotly.express
